@@ -1,5 +1,12 @@
-h2, p {
+h2 {
     position: absolute;
     bottom: 0;
     text-align: center;
 }
+
+p {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
