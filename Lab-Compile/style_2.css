@@ -1,0 +1,26 @@
+body{
+        table {
+            border: 2px solid blue;
+            border-collapse: collapse;
+            width: 50%;
+            margin: 0 auto;
+          }
+        
+        th, td {
+            border: 1px solid blue;
+            padding: 8px;
+            text-align: center;
+        }
+        
+        caption {
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+            padding: 10px;
+        }
+        
+        colgroup {
+            background-color: #ffeecc;
+        }
+        
+  }
